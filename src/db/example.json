@@ -1,0 +1,149 @@
+[
+  {
+    "name": "The Pragmatic Programmer",
+    "price": 740,
+    "category": "books",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Xiaomi Mi Band 7",
+    "price": 1599,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Men's Softshell Jacket",
+    "price": 2099,
+    "category": "clothing",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "3D Printer PLA Filament",
+    "price": 480,
+    "category": "other",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Clean Code",
+    "price": 880,
+    "category": "books",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "ASUS Vivobook 16",
+    "price": 17599,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Women's Running Shoes",
+    "price": 1499,
+    "category": "clothing",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "USB-C Hub 7-in-1",
+    "price": 699,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Winter Beanie",
+    "price": 340,
+    "category": "clothing",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Logitech M330 Silent Mouse",
+    "price": 559,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Atomic Habits",
+    "price": 510,
+    "category": "books",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Desk Organizer Tray",
+    "price": 320,
+    "category": "other",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "OnePlus Power Bank 10000mAh",
+    "price": 899,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Classic White T-shirt",
+    "price": 295,
+    "category": "clothing",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Raspberry Pi 5",
+    "price": 2790,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 1290,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Mindset: The New Psychology of Success",
+    "price": 670,
+    "category": "books",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Sports Water Bottle 750ml",
+    "price": 210,
+    "category": "other",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Microfiber Yoga Towel",
+    "price": 410,
+    "category": "other",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Hooded Sweatshirt",
+    "price": 1330,
+    "category": "clothing",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  },
+  {
+    "name": "Kindle Paperwhite",
+    "price": 4980,
+    "category": "electronics",
+    "createdAt": "2025-10-13T15:18:00.000Z",
+    "updatedAt": "2025-10-13T15:18:00.000Z"
+  }
+]
