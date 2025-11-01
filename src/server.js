@@ -11,6 +11,7 @@ import { notFoundHandler } from './middleware/notFoundHandler.js';
 import { logger } from './middleware/logger.js';
 import productsRoutes from './routes/productsRoutes.js';
 import authRoutes from './routes/authRoutes.js';
+import userRoutes from './routes/userRoutes.js';
 
 const app = express();
 const PORT = process.env.PORT ?? 3030;
@@ -24,6 +25,7 @@ app.use(cors()); // Allow requests from other domains
 // Routes
 app.use(authRoutes);
 app.use(productsRoutes);
+app.use(userRoutes);
 
 // Route for testing error middleware
 app.get('/test-error', () => {

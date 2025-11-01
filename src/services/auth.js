@@ -15,13 +15,6 @@ export const createSession = async (userId) => {
   });
 };
 
-// res.cookie('accessToken', 666, {
-//   httpOnly: true, // Available only via HTTP
-//   secure: true, // Only over HTTPS
-//   sameSite: 'none', // Allows cross-domain requests
-//   maxAge: 10 * 60 * 1000, // 10 minutes
-// });
-
 export const setSessionCookies = (res, session) => {
   res.cookie('accessToken', session.accessToken, {
     httpOnly: true, // Available only via HTTP
