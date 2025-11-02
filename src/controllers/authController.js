@@ -164,6 +164,7 @@ export const requestResetEmail = async (req, res, next) => {
   const html = template({
     name: user.username,
     link: `${process.env.FRONTEND_DOMAIN}/reset-password?token=${resetToken}`,
+    token: resetToken,
   });
 
   console.log('🔑 Reset token generated (length):', resetToken.length);
