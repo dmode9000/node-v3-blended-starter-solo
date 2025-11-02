@@ -162,7 +162,7 @@ export const requestResetEmail = async (req, res, next) => {
   const template = handlebars.compile(templateSource);
   // 4. Формуємо із шаблона HTML документ з динамічними даними
   const html = template({
-    name: user.username,
+    name: user.name,
     link: `${process.env.FRONTEND_DOMAIN}/reset-password?token=${resetToken}`,
     token: resetToken,
   });
